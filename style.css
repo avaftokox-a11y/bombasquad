@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+body { 
+    background-color: #050505; 
+    color: #e5e7eb; 
+    font-family: 'Inter', sans-serif;
+    overflow: hidden;
+}
+
+.glass-panel {
+    background: rgba(10, 10, 15, 0.55);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(147, 51, 234, 0.15);
+}
+
+/* Reszta stylów: glass-card, neon-input, animacje itp. */
