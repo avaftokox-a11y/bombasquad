@@ -1,0 +1,15 @@
+{
+  "name": "BombaSquad",
+  "short_name": "BS",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3670/3670151.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
